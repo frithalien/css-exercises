@@ -1,0 +1,26 @@
+.ODD {
+    background-color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+}
+
+.ODD.BOLD {
+    font-size: 24px;
+    width: auto;
+
+}
+
+#ID1 {
+    color: blue;
+    font-size: 36px;
+    width: auto;
+
+}
+
+#ID2 {
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+    width: auto;
+
+}
